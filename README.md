@@ -3,7 +3,7 @@
 // ============================================
 // 🔐 إعدادات البوت
 // ============================================
-define('BOT_TOKEN', '8901550475:AAF_UEc8IqKJZhmouNTzHSterRLZGSobdmo');
+define('BOT_TOKEN', '8833086519:AAEa7-o5z2MGaFeKlzSzY0c1xN7G8M8YGXk');
 define('OWNER_ID', 8383495557);
 define('OWNER_USERNAME', 'Mkdkdkd8484849');
 
