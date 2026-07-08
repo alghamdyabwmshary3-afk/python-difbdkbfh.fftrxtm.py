@@ -22,7 +22,7 @@ from logging.handlers import RotatingFileHandler
 # ============================================
 BOT_TOKEN = "8613467725:AAFlRihb4os0QZ2ddbUZghh333CEkVBwdO8"
 OWNER_ID = 8539408138
-OWNER_USERNAME = "Mkdkdkd8484849"
+OWNER_USERNAME = "Mkdkdkd8484849bot"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
